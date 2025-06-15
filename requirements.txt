@@ -1,0 +1,10 @@
+openai-whisper
+resemblyzer
+pydub
+numpy
+scikit-learn
+transformers
+pyannote.audio
+openai
+dotenv
+moviepy
